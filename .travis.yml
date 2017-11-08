@@ -1,5 +1,5 @@
 install:
-    - apt install texlive-lang-japanese
+    - sudo apt install texlive-lang-japanese
 
 script:
     - ls
